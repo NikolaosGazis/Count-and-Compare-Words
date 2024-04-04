@@ -8,8 +8,8 @@ On top of that, there is a function that gives the opportunity to compare the or
 sentences to find common elements.
 
 ## Usability
-The program is created to automate list management tasks, and its specialization in the modding of Hearts of Iron IV game is its main goal. Through this feature, the software is able to automatically count the number of names per categories, as well 
-as identify similarities between different sets of words that are added to tags, thus making the gaming experience more personalized and exciting.
+The program is created to automate list management tasks, and its specialization in the modding of the grand strategy game Hearts of Iron IV game is its main goal (like one of my open-to-contribute projects: https://github.com/NikolaosGazis/hoi4-more-ship-names). 
+Through this feature, the software is able to automatically count the number of names per categories, as well as identify similarities between different sets of words that are added to tags, thus making the gaming experience more personalized and exciting.
 
 ## To Note
 All content given either single or double words meant to be counted as one, must be between double quotes ("), the way the program gives the number of double quotes and then divides it by 2, the result will be the number of total words/phrases, the
