@@ -16,4 +16,4 @@ All content given either single or double words meant to be counted as one, must
 number of quotes must be even, or it will lead to an error.
 
 ## License
-This project is available under the MIT License.
+This project is available under the [MIT License](https://github.com/NikolaosGazis/Count-and-Compare-Words?tab=MIT-1-ov-file).
