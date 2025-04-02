@@ -1,7 +1,7 @@
-# Libraries #
-import re # regular expressions.
+### Libraries ###
+import re # Regular Expressions.
 
-# Functions #
+### Functions/Classes ###
 def count_words(words):
     count = words.count('"') 
     
@@ -34,7 +34,7 @@ def main():
         common_words = find_common_words(input_words1, input_words2)
         print("\n[SYSTEM] Common words are: ", common_words)
 
-# Execute the Program #
+### Execute the Program ###
 if __name__ == "__main__":
     main()
     
